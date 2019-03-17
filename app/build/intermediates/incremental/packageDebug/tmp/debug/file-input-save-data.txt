@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Sun Mar 17 14:04:45 PDT 2019
+0.baseType=DIRECTORY
+0.base=/Users/matthewnguyen/Documents/School/CSULB/453/BusRoutes/app/build/intermediates/transforms/dexMerger/debug/0
+0.path=classes.dex
+0.set=DEX
+count=1
